@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 9:55:20 PM On 4/21/2020
+
+Output: Bill of Materials_1
+Type  : BOM
+From  : Variant [[No Variations]] of Schematic Document [Tracker_Proto.SchDoc]
+   Generated File[Bill of Materials_1-Tracker_Proto.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:55:25 PM On 4/21/2020
